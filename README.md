@@ -70,7 +70,7 @@ Add a `README.md` explaining:
 ## 🔀 Submission Workflow (Do This Every Time)
 
 ### 1. Fork the Repository  
-👉 https://github.com/varunaditya27/CC-Web-Dev-Bootcamp-Submissions  
+👉 (https://github.com/Ashitha0409/CC-Web-Dev-Bootcamp-Submissions.git)
 Click **Fork**
 
 ---
@@ -123,7 +123,7 @@ git push origin main
 Before every new assignment, sync your repo:
 
 ```bash
-git remote add upstream https://github.com/varunaditya27/CC-Web-Dev-Bootcamp-Submissions.git
+git remote add upstream https://github.com/Ashitha0409/CC-Web-Dev-Bootcamp-Submissions.git
 git pull upstream main
 git push origin main
 ```
